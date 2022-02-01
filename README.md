@@ -1,2 +1,2 @@
 # hello-world
-mu third
+mu third project
