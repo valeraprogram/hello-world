@@ -1,2 +1,3 @@
 # hello-world
-mu third
+my third
+my name is Valera , I like coding
